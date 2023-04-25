@@ -22,20 +22,20 @@ Repositório criado para adicionar contéudos práticos do Data
 
 Dataset retirado do [Kaggle](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction) para aplicação de modelos de classificação.
 * Métodos utilizados:
-* Disponível em: ![Repositório](https://github.com/LuizGustavoVTacin/Data/tree/main/Exercicios_Treino/AirlinePassengerSatisfaction)
+* Disponível em: [Repositorio](https://github.com/LuizGustavoVTacin/Data/tree/main/Exercicios%20-%20Treino/Classification/AirlinePassengerSatisfaction)
 
 ⏳ **Mobile Price Classification**
 
 Dataset retirado do [Kaggle](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification) para aplicação de modelos de classificação.
 * Métodos utilizados:
-* Disponível em: ![Repositório](https://github.com/LuizGustavoVTacin/Data/tree/main/Exercicios_Treino/MobilePriceClassification)
+* Disponível em: [Repositório](https://github.com/LuizGustavoVTacin/Data/tree/main/Exercicios%20-%20Treino/Classification/MobilePriceClassification)
 
 ⏳ **Spotify and Youtube**
 
 Dataset retirado do [Kaggle](https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube) para visualização de dados.
-* Disponível em: ![Repositório](https://github.com/LuizGustavoVTacin/Data/tree/main/Exercicios_Treino/SpotifyYoutube)
+* Disponível em: [Repositório](https://github.com/LuizGustavoVTacin/Data/tree/main/Exercicios%20-%20Treino/Data%20Visualization/SpotifyYoutube)
 
 ⏳ **Airbnb Prices in European Cities**
 
 Dataset retirado do [Kaggle](https://www.kaggle.com/datasets/thedevastator/airbnb-prices-in-european-cities) para visualização de dados.
-* Disponível em: ![Repositório](https://github.com/LuizGustavoVTacin/Data/tree/main/Exercicios_Treino/AirBnbPrices)
+* Disponível em: [Repositório](https://github.com/LuizGustavoVTacin/Data/tree/main/Exercicios%20-%20Treino/Data%20Visualization/AirBnbPrices)
