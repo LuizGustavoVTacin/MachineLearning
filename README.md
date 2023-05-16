@@ -33,7 +33,7 @@ Tópicos:
 * Natural Language Processing
 * Reinforcement Learning
 
-## Projetos
+## Exercícios
 
 ⏳ **Airline Passenger Satisfaction - Classification** 
 
