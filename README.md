@@ -35,6 +35,25 @@ Tópicos:
 * Natural Language Processing
 * Reinforcement Learning
 
+## Aulas: Kaggle 🤖🏆
+
+Cursos disponíveis no [Kaggle](https://www.kaggle.com/learn) para conteúdos em Data Science e Machine Learning.
+
+Tópicos:
+
+* Pandas
+* Data Cleaning
+* Geospatial Analysis
+* Intro to Machine Learning
+* Intermediate Machine Learning
+* Feature Engineering
+* Intro to Deep Learning
+* Computer Vision
+* Time Series
+* Machine Learning Explainability
+* Intro to Game AI and Reiforcement Learning
+* Intro to AI Ethics
+
 ## Exercícios
 
 ⏳ **Airline Passenger Satisfaction - Classification** 
@@ -56,8 +75,3 @@ Dataset retirado do [Kaggle](https://www.kaggle.com/datasets/iabhishekofficial/m
 
 Dataset retirado do [Kaggle](https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube) para visualização de dados.
 * Disponível em: [Repositório](https://github.com/LuizGustavoVTacin/Data/tree/main/Exercicios%20-%20Treino/Data%20Visualization/SpotifyYoutube)
-
-⏳ **Airbnb Prices in European Cities - Data Visualization**
-
-Dataset retirado do [Kaggle](https://www.kaggle.com/datasets/thedevastator/airbnb-prices-in-european-cities) para visualização de dados.
-* Disponível em: [Repositório](https://github.com/LuizGustavoVTacin/Data/tree/main/Exercicios%20-%20Treino/Data%20Visualization/AirBnbPrices)
