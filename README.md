@@ -8,19 +8,19 @@ Aulas assistidas do [Data - ICMC](https://www.youtube.com/@DataICMC) sobre conte
 
 Tópicos:
 
-* KNN
-* Análise Exploratória de Dados
-* Naive Bayes
-* Árvore de Decisão
-* Bagging e Random Forest
-* Gradient Boosting
-* Regressão Linear e Regressão Logística
-* Redução de Dimensionalidade
-* SVM
-* Processamento de Imagens
-* Processamento de Linguagem Natural
-* Redes Neurais e DL
-* Redes Neurais Convolucionais
+- [X] KNN
+- [X] Análise Exploratória de Dados
+- [X] Naive Bayes
+- [X] Árvore de Decisão
+- [X] Bagging e Random Forest
+- [X] Gradient Boosting
+- [X] Regressão Linear e Regressão Logística
+- [X] Redução de Dimensionalidade
+- [X] SVM
+- [X] Processamento de Imagens
+- [X] Processamento de Linguagem Natural
+- [X] Redes Neurais e DL
+- [X] Redes Neurais Convolucionais
 
 ## Aulas: FreeCodeCamp :books::robot:
 
@@ -28,12 +28,12 @@ Aulas assistidas do [FreeCodeCamp](https://www.freecodecamp.org/learn/machine-le
 
 Tópicos:
 
-* Tensors
-* Core Learning Algorithms
-* Neural Networks
-* Convolutional Neural Networks
-* Natural Language Processing
-* Reinforcement Learning
+- [X] Tensors
+- [X] Core Learning Algorithms
+- [ ] Neural Networks
+- [ ] Convolutional Neural Networks
+- [ ] Natural Language Processing
+- [ ] Reinforcement Learning
 
 ## Aulas: Kaggle 🤖🏆
 
@@ -41,18 +41,18 @@ Cursos disponíveis no [Kaggle](https://www.kaggle.com/learn) para conteúdos em
 
 Tópicos:
 
-* Pandas
-* Data Cleaning
-* Geospatial Analysis
-* Intro to Machine Learning
-* Intermediate Machine Learning
-* Feature Engineering
-* Intro to Deep Learning
-* Computer Vision
-* Time Series
-* Machine Learning Explainability
-* Intro to Game AI and Reiforcement Learning
-* Intro to AI Ethics
+- [X] Pandas
+- [ ] Data Cleaning
+- [ ] Geospatial Analysis
+- [ ] Intro to Machine Learning
+- [ ] Intermediate Machine Learning
+- [ ] Feature Engineering
+- [ ] Intro to Deep Learning
+- [ ] Computer Vision
+- [ ] Time Series
+- [ ] Machine Learning Explainability
+- [ ] Intro to Game AI and Reiforcement Learning
+- [ ] Intro to AI Ethics
 
 ## Exercícios
 
