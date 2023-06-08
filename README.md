@@ -30,7 +30,7 @@ Tópicos:
 
 - [X] Tensors
 - [X] Core Learning Algorithms
-- [ ] Neural Networks
+- [X] Neural Networks
 - [ ] Convolutional Neural Networks
 - [ ] Natural Language Processing
 - [ ] Reinforcement Learning
