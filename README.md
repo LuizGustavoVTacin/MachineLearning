@@ -56,7 +56,14 @@ Tópicos:
 
 ## Exercícios
 
-⏳ **Airline Passenger Satisfaction - Classification** 
+Níveis de dificuldades dos exercícios:
+
+* Fácil: 🟢
+* Trabalhoso: 🟡
+* Médio: 🟠
+* Díficil: 🔴
+
+⏳ **Airline Passenger Satisfaction - Classification** 🟢
 
 Dataset retirado do [Kaggle](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction) para aplicação de modelos de classificação.
 * Métodos utilizados:
@@ -64,14 +71,19 @@ Dataset retirado do [Kaggle](https://www.kaggle.com/datasets/teejmahal20/airline
 
 * Disponível em: [Repositorio](https://github.com/LuizGustavoVTacin/Data/tree/main/Exercicios%20-%20Treino/Classification/AirlinePassengerSatisfaction)
 
-⏳ **Mobile Price Classification**
+⏳ **Mobile Price Classification** 🟢
 
 Dataset retirado do [Kaggle](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification) para aplicação de modelos de classificação.
 * Métodos utilizados:
 Árvore de Decisão, KNN, SVM
 * Disponível em: [Repositório](https://github.com/LuizGustavoVTacin/Data/tree/main/Exercicios%20-%20Treino/Classification/MobilePriceClassification)
 
-⏳ **Spotify and Youtube - Data Visualization**
+⏳ **Spotify and Youtube - Data Visualization** 🟢
 
 Dataset retirado do [Kaggle](https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube) para visualização de dados.
 * Disponível em: [Repositório](https://github.com/LuizGustavoVTacin/Data/tree/main/Exercicios%20-%20Treino/Data%20Visualization/SpotifyYoutube)
+
+⏳ **Penguins vs Turtles - Image Classification** 🟢
+
+Dataset retirado do [Kaggle](https://www.kaggle.com/datasets/abbymorgan/penguins-vs-turtles) para classificação de imagens usando CNN.
+* Disponível em: [Repositório]()
