@@ -31,9 +31,9 @@ Tópicos:
 - [X] Tensors
 - [X] Core Learning Algorithms
 - [X] Neural Networks
-- [ ] Convolutional Neural Networks
-- [ ] Natural Language Processing
-- [ ] Reinforcement Learning
+- [X] Convolutional Neural Networks
+- [X] Natural Language Processing
+- [X] Reinforcement Learning
 
 ## Aulas: Kaggle 🤖🏆
 
@@ -53,6 +53,19 @@ Tópicos:
 - [ ] Machine Learning Explainability
 - [ ] Intro to Game AI and Reiforcement Learning
 - [ ] Intro to AI Ethics
+
+## Aulas: PyTorch 🔥🤖
+- [X] Fundamentals
+- [ ] Workflow
+- [ ] Neural Network Classification
+- [ ] Computer Vision
+- [ ] Custom Datasets
+- [ ] Going Modular
+- [ ] Transfer Learning
+- [ ] Experiment Tracking
+- [ ] Paper Replicating
+- [ ] Model Deployment
+- [ ] PyTorch 2.0 & torch.compile
 
 ## Exercícios
 
