@@ -6,6 +6,8 @@ Repositório criado para adicionar estudos e contéudos práticos referentes a M
 
 ## Aulas: Data :books::computer:
 
+<img src= "images/Data.jpeg" align = "right" width= "250">
+
 Aulas assistidas do [Data - ICMC](https://www.youtube.com/@DataICMC) sobre conteúdos em Machine Learning.
 
 Tópicos:
@@ -24,7 +26,9 @@ Tópicos:
 - ✔️ Redes Neurais e DL
 - ✔️ Redes Neurais Convolucionais
 
-## Aulas: FreeCodeCamp :books::robot:
+## Aulas: TensorFlow :books::robot:
+
+<img src= "images/TF.png" align = "right" width= "300">
 
 Aulas assistidas do [FreeCodeCamp](https://www.freecodecamp.org/learn/machine-learning-with-python/) para o estudo do TensorFlow.
 
@@ -38,6 +42,8 @@ Tópicos:
 - ✔️ Reinforcement Learning
 
 ## Aulas: Kaggle 🤖🏆
+
+<img src= "images/kaggle.png" align = "right" width= "300">
 
 Cursos disponíveis no [Kaggle](https://www.kaggle.com/learn) para conteúdos em Data Science e Machine Learning.
 
@@ -57,6 +63,8 @@ Tópicos:
 - [ ] Intro to AI Ethics
 
 ## Aulas: PyTorch 🔥🤖
+
+<img src= "images/pt.png" align = "right" width= "250">
 
 Curso disponível em [Curso PyTorch](https://www.udemy.com/course/pytorch-for-deep-learning/)
 
