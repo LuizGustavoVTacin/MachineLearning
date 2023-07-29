@@ -1,6 +1,6 @@
-![Github](https://img.shields.io/github/last-commit/LuizGustavoVTacin/Oficina?style=for-the-badge) ![Github](https://img.shields.io/github/languages/count/LuizGustavoVTacin/Oficina?color=red&style=for-the-badge) ![Github](https://img.shields.io/github/directory-file-count/LuizGustavoVTacin/Oficina?style=for-the-badge)
+![Github](https://img.shields.io/github/last-commit/LuizGustavoVTacin/MachineLearning?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/PyTorch-FF0000) ![Static Badge](https://img.shields.io/badge/TensorFlow-FF4500) ![Static Badge](https://img.shields.io/badge/Scikit--Learn-1e90ff)
 
-# Machine Learning, Data Science e Deep Learning
+# Machine Learning e Data Science
 
 Repositório criado para adicionar estudos e contéudos práticos referentes a ML, DS e DL
 
