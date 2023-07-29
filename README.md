@@ -1,3 +1,5 @@
+![Github](https://img.shields.io/github/last-commit/LuizGustavoVTacin/Oficina?style=for-the-badge) ![Github](https://img.shields.io/github/languages/count/LuizGustavoVTacin/Oficina?color=red&style=for-the-badge) ![Github](https://img.shields.io/github/directory-file-count/LuizGustavoVTacin/Oficina?style=for-the-badge)
+
 # Machine Learning, Data Science e Deep Learning
 
 Repositório criado para adicionar estudos e contéudos práticos referentes a ML, DS e DL
