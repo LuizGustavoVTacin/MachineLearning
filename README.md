@@ -57,6 +57,11 @@ Tópicos:
 - [ ] Intro to AI Ethics
 
 ## Aulas: PyTorch 🔥🤖
+
+Curso disponível em [Curso PyTorch](https://www.udemy.com/course/pytorch-for-deep-learning/)
+
+Tópicos
+
 - ✔️ Fundamentals
 - [ ] Workflow
 - [ ] Neural Network Classification
