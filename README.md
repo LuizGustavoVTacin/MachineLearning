@@ -71,8 +71,8 @@ Curso disponível em [Curso PyTorch](https://www.udemy.com/course/pytorch-for-de
 Tópicos
 
 - ✔️ Fundamentals
-- [ ] Workflow
-- [ ] Neural Network Classification
+- ✔️ Workflow
+- ✔️ Neural Network Classification
 - [ ] Computer Vision
 - [ ] Custom Datasets
 - [ ] Going Modular
