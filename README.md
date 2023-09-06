@@ -95,7 +95,7 @@ Níveis de dificuldades dos exercícios:
 
 Dataset retirado do [Kaggle](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction) para aplicação de modelos de classificação.
 * Métodos utilizados:
-Árvore de Decisão
+Árvore de Decisão, KNN
 
 * Disponível em: [Repositorio](https://github.com/LuizGustavoVTacin/MachineLearning/tree/main/Exercicios/AirlinePassengerSatisfaction)
 
