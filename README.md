@@ -91,28 +91,35 @@ Níveis de dificuldades dos exercícios:
 * Médio: 🟠
 * Díficil: 🔴
 
+⏳ **Penguins vs Turtles - Image Classification** 🟢
+
+Dataset retirado do [Kaggle](https://www.kaggle.com/datasets/abbymorgan/penguins-vs-turtles)
+* Disponível em: [Repositório]()
+
+⏳ **Head Gesture Recognition with Capacitive Sensors - Classification** 🟡
+
+Dataset retirado do [Kaggle](https://www.kaggle.com/datasets/ionutcristianseverin/headgesture-recognition-with-capacitive-sensors)
+
+* Métodos utilizados:
+1. KNN (72,95%) | 
+
+* Disponível em: [Repositorio](https://github.com/LuizGustavoVTacin/MachineLearning/tree/main/Exercicios/HeadGestureRecognition)
+
+⏳ **Heart attack possibility - Classification** 🟢
+
+Dataset retirado do [Kaggle](https://www.kaggle.com/datasets/nareshbhat/health-care-data-set-on-heart-attack-possibility)
+
+* Métodos utilizados:
+1. KNN (88.52%)
+
+* Disponível em: [Repositorio](ttps://github.com/LuizGustavoVTacin/MachineLearning/tree/main/Exercicios/HeartAttackPossibility)
+
 ⏳ **Airline Passenger Satisfaction - Classification** 🟢
 
-Dataset retirado do [Kaggle](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction) para aplicação de modelos de classificação.
+Dataset retirado do [Kaggle](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction)
+
 * Métodos utilizados:
 1. Árvore de Decisão (94,62%) - MELHORAR   
 2. KNN (92,99%) | (94,00% - Hiperparâmetros) - MELHORAR
 
 * Disponível em: [Repositorio](https://github.com/LuizGustavoVTacin/MachineLearning/tree/main/Exercicios/AirlinePassengerSatisfaction)
-
-⏳ **Mobile Price Classification** 🟢
-
-Dataset retirado do [Kaggle](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification) para aplicação de modelos de classificação.
-* Métodos utilizados:
-Árvore de Decisão, KNN, SVM
-* Disponível em: [Repositório](https://github.com/LuizGustavoVTacin/Data/tree/main/Exercicios%20-%20Treino/Classification/MobilePriceClassification)
-
-⏳ **Spotify and Youtube - Data Visualization** 🟢
-
-Dataset retirado do [Kaggle](https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube) para visualização de dados.
-* Disponível em: [Repositório](https://github.com/LuizGustavoVTacin/Data/tree/main/Exercicios%20-%20Treino/Data%20Visualization/SpotifyYoutube)
-
-⏳ **Penguins vs Turtles - Image Classification** 🟢
-
-Dataset retirado do [Kaggle](https://www.kaggle.com/datasets/abbymorgan/penguins-vs-turtles) para classificação de imagens usando CNN.
-* Disponível em: [Repositório]()
