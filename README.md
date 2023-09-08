@@ -112,7 +112,7 @@ Dataset retirado do [Kaggle](https://www.kaggle.com/datasets/nareshbhat/health-c
 * Métodos utilizados:
 1. KNN (88.52%)
 
-* Disponível em: [Repositorio](ttps://github.com/LuizGustavoVTacin/MachineLearning/tree/main/Exercicios/HeartAttackPossibility)
+* Disponível em: [Repositorio](https://github.com/LuizGustavoVTacin/MachineLearning/tree/main/Exercicios/HeartAttackPossibility)
 
 ⏳ **Airline Passenger Satisfaction - Classification** 🟢
 
