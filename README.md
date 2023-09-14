@@ -91,6 +91,8 @@ Níveis de dificuldades dos exercícios:
 * Médio: 🟠
 * Díficil: 🔴
 
+
+
 ⏳ **Penguins vs Turtles - Image Classification** 🟢
 
 Dataset retirado do [Kaggle](https://www.kaggle.com/datasets/abbymorgan/penguins-vs-turtles)
@@ -104,6 +106,20 @@ Dataset retirado do [Kaggle](https://www.kaggle.com/datasets/ionutcristianseveri
 1. KNN (72,95%) | 
 
 * Disponível em: [Repositorio](https://github.com/LuizGustavoVTacin/MachineLearning/tree/main/Exercicios/HeadGestureRecognition)
+
+⏳ **Water Potability - Classification** 🟡
+
+Dataset retirado do [Kaggle](https://www.kaggle.com/datasets/adityakadiwal/water-potability)
+
+* Métodos utilizados:
+1. 
+
+⏳ **Stroke Prediction - Classification** 🟡
+
+Dataset retirado do [Kaggle](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
+
+* Métodos utilizados:
+1.
 
 ⏳ **Heart attack possibility - Classification** 🟢
 
