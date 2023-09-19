@@ -89,7 +89,7 @@ Níveis de dificuldades dos exercícios:
 * Fácil: 🟢
 * Trabalhoso: 🟡
 * Médio: 🟠
-* Díficil: 
+* Díficil: :red_circle:
 
 ⏳ **Penguins vs Turtles - Image Classification** 🟢
 
