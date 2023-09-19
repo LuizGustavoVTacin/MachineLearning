@@ -91,6 +91,8 @@ Níveis de dificuldades dos exercícios:
 * Médio: 🟠
 * Díficil: :red_circle:
 
+
+
 ⏳ **Penguins vs Turtles - Image Classification** 🟢
 
 Dataset retirado do [Kaggle](https://www.kaggle.com/datasets/abbymorgan/penguins-vs-turtles)
@@ -105,12 +107,26 @@ Dataset retirado do [Kaggle](https://www.kaggle.com/datasets/ionutcristianseveri
 
 * Disponível em: [Repositorio](https://github.com/LuizGustavoVTacin/MachineLearning/tree/main/Exercicios/HeadGestureRecognition)
 
+⏳ **Water Potability - Classification** 🟡
+
+Dataset retirado do [Kaggle](https://www.kaggle.com/datasets/adityakadiwal/water-potability)
+
+* Métodos utilizados:
+1. 
+
+⏳ **Stroke Prediction - Classification** 🟡
+
+Dataset retirado do [Kaggle](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
+
+* Métodos utilizados:
+1.
+
 ⏳ **Heart attack possibility - Classification** 🟢
 
 Dataset retirado do [Kaggle](https://www.kaggle.com/datasets/nareshbhat/health-care-data-set-on-heart-attack-possibility)
 
 * Métodos utilizados:
-1. KNN (88.52%)
+1. KNN (81.97%) | (88,52% - Hiperparâmetros) - MELHORAR
 
 * Disponível em: [Repositorio](https://github.com/LuizGustavoVTacin/MachineLearning/tree/main/Exercicios/HeartAttackPossibility)
 
@@ -121,5 +137,6 @@ Dataset retirado do [Kaggle](https://www.kaggle.com/datasets/teejmahal20/airline
 * Métodos utilizados:
 1. Árvore de Decisão (94,62%) - MELHORAR   
 2. KNN (92,99%) | (94,00% - Hiperparâmetros) - MELHORAR
+3. SVM 
 
 * Disponível em: [Repositorio](https://github.com/LuizGustavoVTacin/MachineLearning/tree/main/Exercicios/AirlinePassengerSatisfaction)
