@@ -88,7 +88,7 @@ Níveis de dificuldades dos exercícios:
 
 * Fácil: 🟢
 * Trabalhoso: 🟡
-* Médio: 🟠
+* Médio: :orange_circle:
 * Díficil: :red_circle:
 
 
